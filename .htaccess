@@ -1,0 +1,10 @@
+RewriteEngine On
+
+# 将API请求代理到本地boodlebox2api服务
+RewriteCond %{REQUEST_URI} ^/v1/images/generations
+RewriteRule ^(.*)$ http://localhost:10066$1 [P,L]
+ 
+# 处理可能的跨域问题
+Header always set Access-Control-Allow-Origin "*"
+Header always set Access-Control-Allow-Methods "GET, POST, OPTIONS, PUT, DELETE"
+Header always set Access-Control-Allow-Headers "X-Requested-With, Content-Type, Origin, Authorization, Accept, Client-Security-Token, Accept-Encoding" 

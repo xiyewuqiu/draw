@@ -1,0 +1,29 @@
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# 编辑器和IDE文件
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# 日志文件
+*.log
+logs/
+
+# 缓存文件
+.cache/
+tmp/
+
+# 环境变量
+.env
+.env.local
+
+# 依赖目录
+node_modules/
+vendor/
+
+# 编译输出
+dist/
+build/ 

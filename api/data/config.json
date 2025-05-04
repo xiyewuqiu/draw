@@ -1,0 +1,64 @@
+{
+    "models": {
+        "grok": {
+            "name": "Grok",
+            "daily_limit": 10,
+            "status": "active"
+        },
+        "siliconflow": {
+            "name": "SiliconFlow",
+            "daily_limit": 15,
+            "status": "active"
+        },
+        "boodlebox": {
+            "name": "BoodleBox",
+            "daily_limit": 20,
+            "status": "active"
+        },
+        "stable-diffusion-3.5": {
+            "name": "stable-diffusion-3.5",
+            "daily_limit": 20,
+            "status": "active"
+        },
+        "grok-2-image-1212": {
+            "name": "grok-2-image-1212",
+            "daily_limit": 20,
+            "status": "active"
+        },
+        "flux-pro": {
+            "name": "flux-pro",
+            "daily_limit": 20,
+            "status": "active"
+        },
+        "dall-e-3": {
+            "name": "dall-e-3",
+            "daily_limit": 20,
+            "status": "active"
+        },
+        "stable-diffusion-xl": {
+            "name": "stable-diffusion-xl",
+            "daily_limit": 20,
+            "status": "active"
+        },
+        "ideogram-v2": {
+            "name": "ideogram-v2",
+            "daily_limit": 20,
+            "status": "active"
+        },
+        "flux": {
+            "name": "flux",
+            "daily_limit": 20,
+            "status": "active"
+        }
+    },
+    "user_limits": {
+        "daily_limit": 30,
+        "hourly_limit": 10
+    },
+    "system": {
+        "maintenance_mode": false,
+        "maintenance_message": "\u7cfb\u7edf\u6b63\u5728\u7ef4\u62a4\u4e2d\uff0c\u8bf7\u7a0d\u540e\u518d\u8bd5...",
+        "save_ip": true,
+        "auto_delete_days": 30
+    }
+}

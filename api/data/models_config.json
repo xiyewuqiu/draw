@@ -1,0 +1,42 @@
+[
+    {
+        "id": "grok-2-image-1212",
+        "name": "Grok AI",
+        "api_type": "xai",
+        "active": true,
+        "description": "Grok AI\u662fX.AI\u63a8\u51fa\u7684\u5f3a\u5927\u56fe\u50cf\u751f\u6210\u6a21\u578b\uff0c\u64c5\u957f\u7167\u7247\u7ea7\u771f\u5b9e\u611f\u548c\u521b\u610f\u573a\u666f\u3002",
+        "max_tokens": 4000,
+        "temperature": 0.7,
+        "sort_order": 1
+    },
+    {
+        "id": "flux.1-dev",
+        "name": "Flux.1",
+        "api_type": "anthropic",
+        "active": true,
+        "description": "Flux.1\u662fAnthropic\u63a8\u51fa\u7684\u9ad8\u6e05\u56fe\u50cf\u751f\u6210\u6a21\u578b\uff0c\u64c5\u957f\u827a\u672f\u521b\u4f5c\u548c\u903c\u771f\u7167\u7247\u751f\u6210\u3002",
+        "max_tokens": 4000,
+        "temperature": 0.8,
+        "sort_order": 2
+    },
+    {
+        "id": "dall-e-3",
+        "name": "DALL-E 3",
+        "api_type": "openai",
+        "active": true,
+        "description": "OpenAI\u7684DALL-E 3\u6a21\u578b\uff0c\u5177\u6709\u51fa\u8272\u7684\u7ec6\u8282\u8868\u73b0\u548c\u6587\u672c\u7406\u89e3\u80fd\u529b\u3002",
+        "max_tokens": 4000,
+        "temperature": 0.7,
+        "sort_order": 3
+    },
+    {
+        "id": "siliconflow-1",
+        "name": "SiliconFlow",
+        "api_type": "custom",
+        "active": true,
+        "description": "\u57fa\u4e8e\u6700\u65b0Stable Diffusion\u6280\u672f\u7684\u589e\u5f3a\u6a21\u578b\uff0c\u9002\u5408\u751f\u6210\u5404\u79cd\u827a\u672f\u98ce\u683c\u56fe\u50cf\u3002",
+        "max_tokens": 4000,
+        "temperature": 0.7,
+        "sort_order": 4
+    }
+]
