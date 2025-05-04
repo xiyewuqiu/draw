@@ -1,5 +1,21 @@
 [
     {
+        "id": "6817b0b2c7250",
+        "prompt": "pig",
+        "model": "grok-2-image-1212",
+        "imageUrl": "https:\/\/imgen.x.ai\/xai-imgen\/xai-tmp-imgen-e1c5bf4f-c877-4402-86f6-241934dc6138.jpeg",
+        "revisedPrompt": "pig",
+        "timestamp": 1746383026000
+    },
+    {
+        "id": "6817af2276c14",
+        "prompt": "pig",
+        "model": "dall-e-3",
+        "imageUrl": "https:\/\/boodleai-dev-storage.s3.amazonaws.com\/boodle-gpt\/prod\/bruno\/images\/88835a38-51cc-4cbb-8a86-49b7f02fdbea\/11bffa45-e391-4470-88c0-80b93dffea46-1.png",
+        "revisedPrompt": "pig",
+        "timestamp": 1746382626000
+    },
+    {
         "id": "68177dcc9f03f",
         "prompt": "A beautiful young East Asian woman, looking at viewer, medium shot portrait, focusing on upper body, chest and face, slender figure, plump breasts, dark wavy hair, fair skin, wearing a delicate floral pattern camisole made of soft fabric, indoor room background with curtains, soft warm golden hour lighting, side lighting, rim lighting on hair, intimate lighting, shallow depth of field, beautiful bokeh, cozy atmosphere, photorealistic digital art, highly detailed, intricate, ultra realistic, rendered, masterpiece, 8k, sharp focus, --ar 2:3",
         "model": "dall-e-3",
@@ -7986,21 +8002,5 @@
         "imageUrl": "https:\/\/boodleai-dev-storage.s3.amazonaws.com\/boodle-gpt\/prod\/bruno\/images\/3fa72ce9-933d-46c4-93df-d1b237a8654d\/fc89fa27-03a3-4631-b107-b945a369c468-1.png",
         "revisedPrompt": "Atat\u00fcrk portrait, photorealistic, detailed facial features, dignified expression, historical accuracy, professional lighting, high resolution, 8K quality, formal attire, stately pose",
         "timestamp": 1746113499000
-    },
-    {
-        "id": "681393c7afb3c",
-        "prompt": "Atat\u00fcrk portresi",
-        "model": "stable-diffusion-3.5",
-        "imageUrl": "https:\/\/boodleai-dev-storage.s3.amazonaws.com\/boodle-gpt\/prod\/bruno\/images\/5cc6cfb3-a320-4864-b065-a4d0119d11a5\/441ce381-5cc6-4fed-87af-5f8fb5d791ca-1.png",
-        "revisedPrompt": "A detailed portrait of Mustafa Kemal Atat\u00fcrk, the founder and first president of Turkey, wearing his iconic military uniform with medals, photorealistic style, dignified expression, strong lighting, high contrast, professional photography",
-        "timestamp": 1746113479000
-    },
-    {
-        "id": "681393af053fa",
-        "prompt": "Atat\u00fcrk portresi",
-        "model": "ideogram-v2",
-        "imageUrl": "https:\/\/boodleai-dev-storage.s3.amazonaws.com\/boodle-gpt\/prod\/bruno\/images\/b8a8b10b-7905-4e3a-90eb-55d8f64397e0\/0832611b-1a19-4237-942a-915b7cc8ccaa-1.png",
-        "revisedPrompt": "A detailed portrait of Mustafa Kemal Atat\u00fcrk, the founder and first president of Turkey, photorealistic style, dignified pose, wearing a formal suit with his signature stern yet charismatic expression, high contrast lighting, professional photography aesthetic",
-        "timestamp": 1746113455000
     }
 ]
