@@ -1,5 +1,13 @@
 [
     {
+        "id": "6832c7c4f333c",
+        "prompt": "pig",
+        "model": "siliconflow",
+        "imageUrl": "https:\/\/sc-maas.oss-cn-shanghai.aliyuncs.com\/outputs%2F20250525%2Frrq2a23u6j.png?Expires=1748162004&OSSAccessKeyId=LTAI5tQnPSzwAnR8NmMzoQq4&Signature=EeCi6poIRB9sVevzjXWWxmQqMfg%3D",
+        "revisedPrompt": "pig",
+        "timestamp": 1748158404000
+    },
+    {
         "id": "68324947bbc00",
         "prompt": "A volcano erupting confetti cartoon style",
         "model": "flux-pro",
@@ -7990,13 +7998,5 @@
         "imageUrl": "https:\/\/boodleai-dev-storage.s3.amazonaws.com\/boodle-gpt\/prod\/bruno\/images\/0a729ed4-5a8b-46a8-be1e-22d76ac60cda\/51d6b8e6-101d-4f70-b75f-73f93cbbe120-1.png",
         "revisedPrompt": "Google Ads dashboard open on a laptop, e-commerce product listings visible with CPC, impressions, and conversions highlighted, performance marketing concept, square format",
         "timestamp": 1746623741000
-    },
-    {
-        "id": "681b5ccfc7a42",
-        "prompt": "\u201cIllustration of a magnifying glass over a search ad, \u2018Buy Now\u2019 button glowing, surrounded by ad budget and ROI icons, vibrant and clean, 1:1 image\u201d",
-        "model": "flux-pro",
-        "imageUrl": "https:\/\/boodleai-dev-storage.s3.amazonaws.com\/boodle-gpt\/prod\/bruno\/images\/3204dc04-8304-4834-9490-031a5fa5d78e\/75f09c7e-6393-498c-a6fe-cb4981205556-1.png",
-        "revisedPrompt": "Illustration of a magnifying glass over a search ad, 'Buy Now' button glowing, surrounded by ad budget and ROI icons, vibrant and clean, 1:1 image",
-        "timestamp": 1746623695000
     }
 ]
